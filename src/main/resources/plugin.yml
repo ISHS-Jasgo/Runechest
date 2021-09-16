@@ -1,0 +1,8 @@
+name: Runechest
+version: ${project.version}
+main: com.github.jasgo.runechest.Runechest
+api-version: 1.17
+authors: [ Jasgo ]
+
+commands:
+  rchest:
